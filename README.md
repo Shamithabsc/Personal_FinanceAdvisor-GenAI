@@ -1,5 +1,3 @@
-Got it! Here's the updated **README** reflecting the accurate information about **Google Gemini 2.0 model**, **Flash**, and **Gradio** for the **Personal Finance Advisor** project:
-
 ---
 
 # 💰 Personal Finance Advisor using GenAI

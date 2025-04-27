@@ -2,7 +2,7 @@
 
 # 💰 Personal Finance Advisor using GenAI
 
-Welcome to the **Personal Finance Advisor using GenAI** project!  
+Welcome to the **Personal Finance Advisor for GenAI** project!  
 This project utilizes the **Google Gemini 2.0 model** for AI-powered financial insights and **Gradio** for building an intuitive, interactive frontend. The backend uses **Flash** for a lightweight web application structure.
 
 ---

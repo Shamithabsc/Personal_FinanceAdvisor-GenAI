@@ -51,6 +51,7 @@ Follow these steps to set up and run the **Personal Finance Advisor using GenAI*
 
 4. **Put your Text**  through the Gradio interface, and interact with the AI-powered financial advisor!
 
+[Note: This used Google gemini API key so it will work only for 72 hours after deployment]
 ---
 
 ## ✨ Key Features
